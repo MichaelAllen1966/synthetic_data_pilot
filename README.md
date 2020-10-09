@@ -1,6 +1,8 @@
 # synthetic_data_pilot
 
 
+[![DOI](https://zenodo.org/badge/302670560.svg)](https://zenodo.org/badge/latestdoi/302670560)
+
 This repository is being updated as research is performed. The experiments (and required data) are available as Jupyter Notebooks.
 
 For any queries on this work contact m.allen@exeter.ac.uk
