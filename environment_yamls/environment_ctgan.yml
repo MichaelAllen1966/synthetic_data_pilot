@@ -1,0 +1,14 @@
+name: ctgan
+channels:
+  - defaults
+dependencies:
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pip
+  - pandas
+  - python
+  - scikit-learn
+  - spyder
+  - pip:
+    - ctgan

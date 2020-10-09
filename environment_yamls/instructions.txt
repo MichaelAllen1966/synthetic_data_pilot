@@ -1,0 +1,19 @@
+To create environment:
+
+conda env create -f environment_name.yml
+
+To activate environment:
+
+conda activate environment_name
+
+To deactivate:
+
+conda deactivate
+
+To update environment (from updated yml file):
+
+conda env update --prefix ./env --file environment_name.yml  --prune
+
+To remove an environment
+
+conda env remove -n environment_name

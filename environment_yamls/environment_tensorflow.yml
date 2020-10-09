@@ -1,0 +1,13 @@
+name: synthetic_tensorflow
+channels:
+  - defaults
+dependencies:
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pip
+  - pandas
+  - python
+  - scikit-learn
+  - spyder
+  - tensorflow

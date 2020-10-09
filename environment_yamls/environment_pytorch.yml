@@ -1,0 +1,13 @@
+name: synthetic_pytorch
+channels:
+  - defaults
+dependencies:
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pip
+  - pandas
+  - python
+  - pytorch
+  - scikit-learn
+  - spyder
